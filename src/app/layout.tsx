@@ -7,8 +7,8 @@ import "../styles/globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "ChatCue",
-  description: "ChatCue",
+  title: "ChatCue | AI Voice Agent",
+  description: "ChatCue | AI Voice Agent",
 };
 
 export default function RootLayout({
