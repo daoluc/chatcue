@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "ChatCue | AI Voice Agent",
-  description: "ChatCue | AI Voice Agent",
+  description: "AI Voice Agent, Customized for Your Business",
 };
 
 export default function RootLayout({
