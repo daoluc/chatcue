@@ -7,8 +7,8 @@ import "../styles/globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "ChatCue | AI Voice Agent",
-  description: "AI Voice Agent, Customized for Your Business",
+  title: "Not Found",
+  description: "Not Found",
 };
 
 export default function RootLayout({
@@ -19,7 +19,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-        Not Found
+        Not Found 404
         {/* <Header />
         {children}
         <Footer /> */}
